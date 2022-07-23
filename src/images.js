@@ -33,7 +33,7 @@ const SUPPORT_IMAGES = {
   veigar: require('./supports/veigar.jpg'),
   velkoz: require('./supports/velkoz.jpg'),
   xerath: require('./supports/xerath.jpg'),
-  yumi: require('./supports/yumi.jpg'),
+  yuumi: require('./supports/yuumi.jpg'),
   zac: require('./supports/zac.jpg'),
   zilean: require('./supports/zilean.png'),
   zyra: require('./supports/zyra.jpg'),
