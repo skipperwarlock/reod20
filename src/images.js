@@ -1,7 +1,7 @@
 const SUPPORT_IMAGES = {
   reo: require('./supports/reo.jpg'),
   alistar: require('./supports/alistar.jpg'),
-  alistar: require('./supports/ashe.jpg'),
+  ashe: require('./supports/ashe.jpg'),
   bard: require('./supports/bard.jpg'),
   blitz: require('./supports/blitz.png'),
   brand: require('./supports/brand.jpg'),

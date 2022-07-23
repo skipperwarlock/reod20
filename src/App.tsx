@@ -17,7 +17,7 @@ function App() {
   const handleClick = () => {
     const rnd = floatToInt(1+Math.random() * 20);
     setRolledNumber(rnd);
-    if(rnd == 1){
+    if(rnd === 1){
       setSupImg(SUPPORT_IMAGES.teemo)
       setSupName("Teemo")
       setSupTxt("You know you deserve this...")
@@ -181,7 +181,7 @@ function App() {
           break;
       }
       setSupTxt("YOU ARE THE ENGAGE. BE THE ENGAGE.")
-    }else if(rnd == 20){//malphite
+    }else if(rnd === 20){//malphite
       setSupImg(SUPPORT_IMAGES.malphite)
       setSupName("Malphite")
       setSupTxt("The team fights when you say they fight!")
